@@ -1,0 +1,21 @@
+﻿<resources>
+  <!--<color name="primary">#2196F3</color>
+  <color name="primaryDark">#1976D2</color>
+  <color name="accent">#FFC107</color>
+  <color name="window_background">#72BF44</color>-->
+  <!--<color name="splash_background">#1976D2</color>-->
+
+  <color name="primary">#8553a1</color>
+  <color name="primaryLight">#b681d3</color>
+  <color name="primaryDark">#562872</color>
+  <color name="secondary">#8553a1</color>
+  <color name="secondaryLight">#b681d3</color>
+  <color name="secondaryDark">#562872</color>
+  <color name="primaryText">#ffffff</color>
+  <color name="secondaryText">#000000</color>
+
+  <color name="ListViewSelected">#b681d3</color>
+  <color name="ListViewHighlighted">#562872</color>
+
+
+</resources>
